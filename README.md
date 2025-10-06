@@ -94,6 +94,8 @@
 
 **🕊️ Twitter: @SmileNguyen04**
 
+**💬 Discord: smilenguyen**
+
 **📸 Youtube: @**
 
 ### 📊 Thống kê hoạt động:
@@ -104,6 +106,7 @@
 
 ### 👀 Số người đã xem:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SmileNguyen.repo)
+
 
 
 
