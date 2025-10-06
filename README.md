@@ -4,9 +4,9 @@
 
 ### **Thông tin cá nhân**
 
-- **Họ và tên:** : Nguyễn Trần Tài
-- **Mã số sinh viên:** : 2472020054
-- **Lớp:** : D19CNTT1B
+- **Họ và tên :** Nguyễn Trần Tài
+- **Mã số sinh viên :** 2472020054
+- **Lớp :** D19CNTT1B
 
 ---
 
@@ -83,4 +83,5 @@
 ---
 
 ### **Sau đó truy cập http://localhost:5173 (hoặc cổng mà Vite cung cấp).**
+
 
