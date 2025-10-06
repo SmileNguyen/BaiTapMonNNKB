@@ -85,6 +85,9 @@
 ### **🔎 Sau đó truy cập http://localhost:5173 (hoặc cổng mà Vite cung cấp).**
 
 ---
+
+© Copyright 2025 by Yuuko (aka: Tài Nguyễn) | Bài tập được làm từ: Sunday, October 5, 2025 at 9:33 AM đến Monday, October 6, 2025 at 1:09 PM.
+
 <h2>Thông tin liên hệ ngoài không có trong bài học</h2>
 
 **✉️ Email: ngtrantai2004@gmail.com / admin@smvtb.click**
@@ -101,6 +104,7 @@
 
 ### 👀 Số người đã xem:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SmileNguyen.repo)
+
 
 
 
