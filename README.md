@@ -2,7 +2,7 @@
 
 ---
 
-### **Thông tin cá nhân**
+### **🧑‍💻 Thông tin cá nhân**
 
 - **Họ và tên :** Nguyễn Trần Tài
 - **Mã số sinh viên :** 2472020054
@@ -10,7 +10,7 @@
 
 ---
 
-### **Công nghệ sử dụng trong bài tập**
+### **⚙️ Công nghệ sử dụng trong bài tập**
 
 Ứng dụng được xây dựng trên hai phần chính:
 
@@ -29,7 +29,7 @@
 
 ---
 
-### **Các tính năng chính**
+### **📑 Các tính năng chính**
 
 - [x] Thêm công việc mới.
 - [x] Hiển thị danh sách các công việc.
@@ -40,7 +40,7 @@
 
 ---
 
-### **Hình ảnh ứng dụng**
+### **🖼️ Hình ảnh ứng dụng**
 
 **1. Giao diện chính của chạy code:**
 ![Giao diện chính](./screenshots/giao-dien-chay-lenh.png)
@@ -56,7 +56,7 @@
 
 ---
 
-### **Hướng dẫn cài đặt và chạy thử**
+### **🖥️ Hướng dẫn cài đặt và chạy thử**
 
 1. **Clone repository:**
    ```bash
@@ -82,7 +82,7 @@
 
 ---
 
-### **Sau đó truy cập http://localhost:5173 (hoặc cổng mà Vite cung cấp).**
+### **🔎 Sau đó truy cập http://localhost:5173 (hoặc cổng mà Vite cung cấp).**
 
 ---
 
@@ -92,5 +92,5 @@
 ### 📖 Ngôn ngữ phổ biến:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
 
-### 🧑‍💻 Số người đã xem:
+### 👀 Số người đã xem:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.repo)
