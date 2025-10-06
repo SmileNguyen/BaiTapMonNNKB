@@ -1,1 +1,19 @@
-node-v20.19.5-x64.msi
+# Node modules
+/todo-backend/node_modules
+/todo-frontend/node_modules
+
+# Build output
+/todo-frontend/dist
+
+# Database file
+/todo-backend/todos.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.vscode
+.idea
+.DS_Store
