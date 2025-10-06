@@ -87,10 +87,11 @@
 ---
 
 ### 📊 Thống kê hoạt động:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmileNguyen&show_icons=true)
 
 ### 📖 Ngôn ngữ phổ biến:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmileNguyen)
 
 ### 👀 Số người đã xem:
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.repo)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SmileNguyen.repo)
+
