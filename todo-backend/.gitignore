@@ -1,0 +1,3 @@
+# todo-backend/.gitignore
+node_modules
+todos.db
