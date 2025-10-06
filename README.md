@@ -84,4 +84,13 @@
 
 ### **Sau đó truy cập http://localhost:5173 (hoặc cổng mà Vite cung cấp).**
 
+---
 
+### 📊 Thống kê hoạt động:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+### 📖 Ngôn ngữ phổ biến:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+
+### 🧑‍💻 Số người đã xem:
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.repo)
