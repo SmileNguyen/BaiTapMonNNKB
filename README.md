@@ -42,11 +42,17 @@
 
 ### **Hình ảnh ứng dụng**
 
-**Giao diện chính của ứng dụng:**
+**1. Giao diện chính của chạy code:**
+![Giao diện chính](./screenshots/giao-dien-chay-lenh.png)
+
+**2. Giao diện chính của ứng dụng:**
 ![Giao diện chính](./screenshots/giao-dien-chinh.png)
 
-**Chức năng chỉnh sửa công việc:**
-![Chức năng chỉnh sửa](./screenshots/chuc-nang-sua.png)
+**3. Chức năng đánh dấu công việc đã làm:**
+![Chức năng chỉnh sửa](./screenshots/giao-dien-todo-da-lam.png)
+
+**4. Chức năng chỉnh sửa công việc:**
+![Chức năng chỉnh sửa](./screenshots/giao-dien-chinh-sua-todo.png)
 
 ---
 
@@ -77,3 +83,4 @@
 ---
 
 ### **Sau đó truy cập http://localhost:5173 (hoặc cổng mà Vite cung cấp).**
+
