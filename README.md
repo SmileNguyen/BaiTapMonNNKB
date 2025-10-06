@@ -85,6 +85,11 @@
 ### **🔎 Sau đó truy cập http://localhost:5173 (hoặc cổng mà Vite cung cấp).**
 
 ---
+<h2>Thông tin liên hệ ngoài không có trong bài học</h2>
+
+**✉️ Email: ngtrantai2004@gmail.com / admin@smvtb.click**
+**🕊️ Twitter: @SmileNguyen04**
+**📸 Youtube: @**
 
 ### 📊 Thống kê hoạt động:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmileNguyen&show_icons=true)
@@ -94,4 +99,5 @@
 
 ### 👀 Số người đã xem:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SmileNguyen.repo)
+
 
